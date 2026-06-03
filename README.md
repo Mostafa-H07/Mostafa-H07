@@ -1,55 +1,57 @@
 # 👋 Hey there, I'm Mostafa!
 
-I'm a Biomedical Engineering student who enjoys figuring out how things work—whether it’s medical devices, software, or just an interesting math problem. I’ve worked on a few projects involving medical equipment and imaging software, and right now I’m focusing on sharpening my **programming and problem-solving skills**.
+I'm a Biomedical Engineering student who enjoys figuring out how things work — 
+whether that's airflow through a trachea, a signal hiding inside noise, 
+or a microcontroller coordinating two elevators. I've worked across a pretty 
+wide range of domains and I'm always looking for the interesting problem in whatever I touch.
 
 ---
 
 ## 🧠 A Bit About Me
 
-- 🎓 Biomedical Engineering student  
-- 💻 Currently diving into programming, especially **algorithms**, **embedded systems**, and **signal processing**
-- 🧮 Math enthusiast who loves tackling logical problems
-- 🔍 Still exploring where I want to specialize—just following curiosity and building along the way
+- 🎓 Biomedical & Systems Engineering student at Cairo University
+- 💻 I've worked on medical imaging, signal processing, ML pipelines, 
+  embedded systems, and CFD simulation
+- 🔬 I like projects that sit at the intersection of engineering and healthcare
+- 🛠️ Still building, still figuring things out
 
 ---
 
 ## 🛠️ Tech & Tools I Use
 
-- **Languages**: Python, Java, C++, Arduino
-- **Tools**: Arduino IDE, MATLAB, Kinovea, PyQt
-- **Focus Areas**: Embedded systems, biomedical signals, image analysis
+- **Languages**: Python, C++, C#, Arduino C, Java
+- **ML / Data**: Scikit-learn, OpenCV, Pandas
+- **Signal & Imaging**: DSP, FFT, Beamforming, PyQt5
+- **Hardware**: Arduino, bare-metal C, UART, SPI, PWM
+- **Simulation**: ANSYS Fluent, ANSYS Discovery
+- **Other**: Django, Flask, Streamlit, Unity3D, Blender, Git
 
 ---
 
-## 🚧 Projects I’ve Worked On
+## 🚧 What I've Been Building
 
-- 💡 Prototypes for **medical equipment**
-- 🖼️ Software for **biomedical imaging analysis**
-- 🔬 Basic simulations and hardware integration using Arduino
-
----
-
-## 📚 What I’m Working On Now
-
-- Improving my foundation in **data structures & algorithms**
-- Building small projects to connect **hardware + software**
-- Learning more about **real-time systems** and **biomedical applications of code**
+Across my projects I've touched medical image processing, 
+ML classification pipelines, DSP and audio systems, 
+phased array simulation, embedded controllers, 
+and computational fluid dynamics — usually delivered 
+as full-stack web apps or desktop GUIs.
 
 ---
 
-## 📌 Long-Term Goals (Still in Progress!)
+## 📚 What I'm Working On Now
 
-- Master programming fundamentals and problem solving  
-- Build meaningful tools or devices that solve real-world problems  
-- Find my space at the intersection of **tech + healthcare**
+- Deepening my work in biomedical ML and signal processing
+- Documenting and cleaning up past projects
+- Looking for opportunities to apply this stuff in the real world
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating or just chatting about projects, math, or tech.
+Always open to collaborating or just talking about interesting problems.
 
-- Email: mostafa.ibrahim07@eng-st.cu.edu.eg
+- 📧 mostafa.ibrahim07@eng-st.cu.edu.eg
+- 💼 [LinkedIn](https://www.linkedin.com/in/mostafa-hazem-38a900303/)
 
 ---
 
